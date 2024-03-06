@@ -1,0 +1,348 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.WebApi\\Tucson.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Business\\Tucson.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Business\\Tucson.Business.csproj",
+        "projectName": "Tucson.Business",
+        "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Business\\Tucson.Business.csproj",
+        "packagesPath": "C:\\Users\\Caro\\.nuget\\packages\\",
+        "outputPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Caro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Data\\Tucson.Data.csproj": {
+                "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Data\\Tucson.Data.csproj"
+              },
+              "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj": {
+                "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Data\\Tucson.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Data\\Tucson.Data.csproj",
+        "projectName": "Tucson.Data",
+        "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Data\\Tucson.Data.csproj",
+        "packagesPath": "C:\\Users\\Caro\\.nuget\\packages\\",
+        "outputPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Caro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj": {
+                "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj",
+        "projectName": "Tucson.Models",
+        "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj",
+        "packagesPath": "C:\\Users\\Caro\\.nuget\\packages\\",
+        "outputPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Caro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.ReservationService\\Tucson.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.ReservationService\\Tucson.Services.csproj",
+        "projectName": "Tucson.Services",
+        "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.ReservationService\\Tucson.Services.csproj",
+        "packagesPath": "C:\\Users\\Caro\\.nuget\\packages\\",
+        "outputPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.ReservationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Caro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Business\\Tucson.Business.csproj": {
+                "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Business\\Tucson.Business.csproj"
+              },
+              "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Data\\Tucson.Data.csproj": {
+                "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Data\\Tucson.Data.csproj"
+              },
+              "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj": {
+                "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.WebApi\\Tucson.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.WebApi\\Tucson.WebApi.csproj",
+        "projectName": "Tucson.WebApi",
+        "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.WebApi\\Tucson.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Caro\\.nuget\\packages\\",
+        "outputPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Caro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj": {
+                "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj"
+              },
+              "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.ReservationService\\Tucson.Services.csproj": {
+                "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.ReservationService\\Tucson.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Rpz+9X4NcKByCxa0xEdaDGaV7tqELrGqPr3xevpq22k=",
+  "Source": "Tucson.WebApi",
+  "BasePath": "_content/Tucson.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.ReservationService\\Tucson.Services.csproj",
+      "Version": 2,
+      "Source": "Tucson.Services",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

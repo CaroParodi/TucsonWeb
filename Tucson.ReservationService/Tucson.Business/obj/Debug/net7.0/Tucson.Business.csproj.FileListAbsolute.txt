@@ -1,0 +1,17 @@
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\bin\Debug\net7.0\Tucson.Business.deps.json
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\bin\Debug\net7.0\Tucson.Business.dll
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\bin\Debug\net7.0\Tucson.Business.pdb
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\bin\Debug\net7.0\Tucson.Data.dll
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\bin\Debug\net7.0\Tucson.Models.dll
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\bin\Debug\net7.0\Tucson.Data.pdb
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\bin\Debug\net7.0\Tucson.Models.pdb
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.csproj.AssemblyReference.cache
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.AssemblyInfoInputs.cache
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.AssemblyInfo.cs
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.csproj.CoreCompileInputs.cache
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.csproj.CopyComplete
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.dll
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\refint\Tucson.Business.dll
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.pdb
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\ref\Tucson.Business.dll

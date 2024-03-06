@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tucson.Data\Tucson.Data.csproj" />
+    <ProjectReference Include="..\Tucson.Domain\Tucson.Models.csproj" />
+  </ItemGroup>
+
+</Project>
