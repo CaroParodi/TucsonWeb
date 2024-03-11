@@ -8476,6 +8476,7 @@
     "net7.0": [
       "Microsoft.NET.Test.Sdk >= 17.6.0",
       "Moq >= 4.20.70",
+      "Tucson.Models >= 1.0.0",
       "Tucson.Services >= 1.0.0",
       "Tucson.WebApi >= 1.0.0",
       "coverlet.collector >= 3.2.0",
@@ -8509,6 +8510,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Models\\Tucson.Models.csproj": {
+              "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Models\\Tucson.Models.csproj"
+            },
             "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.ReservationService\\Tucson.Services.csproj": {
               "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.ReservationService\\Tucson.Services.csproj"
             },

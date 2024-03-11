@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Tucson.Domain\Tucson.Models.csproj" />
+    <ProjectReference Include="..\Tucson.Models\Tucson.Models.csproj" />
   </ItemGroup>
 
 </Project>

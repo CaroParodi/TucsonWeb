@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.6.0",
           "Moq": "4.20.70",
+          "Tucson.Models": "1.0.0",
           "Tucson.Services": "1.0.0",
           "Tucson.WebApi": "1.0.0",
           "coverlet.collector": "3.2.0",
@@ -1614,11 +1615,6 @@
           "Tucson.Data.dll": {}
         }
       },
-      "Tucson.Models/1.0.0": {
-        "runtime": {
-          "Tucson.Models.dll": {}
-        }
-      },
       "Tucson.Services/1.0.0": {
         "dependencies": {
           "Tucson.Business": "1.0.0",
@@ -2676,11 +2672,6 @@
       "sha512": ""
     },
     "Tucson.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Tucson.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -64,6 +64,7 @@ D:\HipodromoPalermo\Tucson.ReservationService\Tucson.ReservationService\obj\Debu
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.ReservationService\obj\Debug\net7.0\Tucson.Services.AssemblyInfo.cs
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.ReservationService\obj\Debug\net7.0\Tucson.Services.csproj.CoreCompileInputs.cache
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.ReservationService\obj\Debug\net7.0\Tucson.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.ReservationService\obj\Debug\net7.0\Tucson.Services.sourcelink.json
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.ReservationService\obj\Debug\net7.0\staticwebassets.build.json
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.ReservationService\obj\Debug\net7.0\staticwebassets.development.json
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.ReservationService\obj\Debug\net7.0\staticwebassets\msbuild.Tucson.Services.Microsoft.AspNetCore.StaticWebAssets.props

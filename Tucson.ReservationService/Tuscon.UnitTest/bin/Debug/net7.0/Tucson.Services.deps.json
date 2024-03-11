@@ -571,11 +571,6 @@
         "runtime": {
           "Tucson.Data.dll": {}
         }
-      },
-      "Tucson.Models/1.0.0": {
-        "runtime": {
-          "Tucson.Models.dll": {}
-        }
       }
     }
   },
@@ -969,11 +964,6 @@
       "sha512": ""
     },
     "Tucson.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Tucson.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

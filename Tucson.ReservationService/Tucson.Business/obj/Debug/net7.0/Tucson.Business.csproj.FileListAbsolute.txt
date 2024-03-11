@@ -10,6 +10,7 @@ D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\T
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.AssemblyInfoInputs.cache
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.AssemblyInfo.cs
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.csproj.CoreCompileInputs.cache
+D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.sourcelink.json
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.csproj.CopyComplete
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\Tucson.Business.dll
 D:\HipodromoPalermo\Tucson.ReservationService\Tucson.Business\obj\Debug\net7.0\refint\Tucson.Business.dll

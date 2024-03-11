@@ -561,11 +561,6 @@
         "runtime": {
           "Tucson.Data.dll": {}
         }
-      },
-      "Tucson.Models/1.0.0": {
-        "runtime": {
-          "Tucson.Models.dll": {}
-        }
       }
     }
   },
@@ -954,11 +949,6 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "Tucson.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Tucson.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

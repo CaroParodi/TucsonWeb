@@ -2970,6 +2970,9 @@
           "projectReferences": {
             "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj": {
               "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Domain\\Tucson.Models.csproj"
+            },
+            "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Models\\Tucson.Models.csproj": {
+              "projectPath": "D:\\HipodromoPalermo\\Tucson.ReservationService\\Tucson.Models\\Tucson.Models.csproj"
             }
           }
         }

@@ -10,6 +10,7 @@
     <ProjectReference Include="..\Tucson.Business\Tucson.Business.csproj" />
     <ProjectReference Include="..\Tucson.Data\Tucson.Data.csproj" />
     <ProjectReference Include="..\Tucson.Domain\Tucson.Models.csproj" />
+    <ProjectReference Include="..\Tucson.Models\Tucson.Models.csproj" />
   </ItemGroup>
 
 </Project>

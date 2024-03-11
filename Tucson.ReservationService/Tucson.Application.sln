@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.33913.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tucson.Services", "Tucson.ReservationService\Tucson.Services.csproj", "{767979F1-EB5C-48BF-AA1D-1A948CD60996}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tucson.Models", "Tucson.Domain\Tucson.Models.csproj", "{4CF68562-0047-4A73-8569-2E910A8B16CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tucson.Models", "Tucson.Models\Tucson.Models.csproj", "{4CF68562-0047-4A73-8569-2E910A8B16CF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tucson.Data", "Tucson.Data\Tucson.Data.csproj", "{8A377D13-6CBC-4FE2-83B9-7552E6DC92F7}"
 EndProject

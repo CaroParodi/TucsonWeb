@@ -25,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Tucson.Models\Tucson.Models.csproj" />
     <ProjectReference Include="..\Tucson.ReservationService\Tucson.Services.csproj" />
     <ProjectReference Include="..\Tucson.WebApi\Tucson.WebApi.csproj" />
   </ItemGroup>
